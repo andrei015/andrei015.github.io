@@ -127,4 +127,8 @@ color: white;
 .logo {
   border-radius: 50%;
 }
+.cell {
+  text-align: center;
+  font-size: 30px;
+}
 </style>
